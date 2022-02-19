@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e905fed7-2a00-4b1f-aa77-20c51742896f": {
+      "ProjectGuid": "e905fed7-2a00-4b1f-aa77-20c51742896f",
+      "DisplayName": "TIChamados.Financeiro.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
